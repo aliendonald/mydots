@@ -1,1 +1,1 @@
-# mydots
+# moje konfigi i3
